@@ -35,7 +35,7 @@ bruteforce attack on facebook account script in python
 * Make location based login(+browser based).
 * Use Two ay-Verification...
 
-##Follow us on Git-Hub;-
+##Follow us on Git-Hub:-
 
 https://github.com/Demon-World-Warrior/
 
