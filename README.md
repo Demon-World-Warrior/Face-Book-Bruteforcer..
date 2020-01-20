@@ -19,7 +19,7 @@ bruteforce attack on facebook account script in python
 
 ## Run commands one by one:-
 
-* sudo git clone https://github.com/Demon-World-Warrior/Face-Book-Bruteforcer..
+* sudo git clone https://github.com/Demon-World-Warrior/Face-Book-Bruteforcer...git
 
 * cd Face-book-BruteForce
 * sudo pip3 install requests bs4
